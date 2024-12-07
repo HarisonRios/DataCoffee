@@ -22,9 +22,6 @@ Este projeto consiste em um sistema de monitoramento de temperatura e umidade do
 
 > Imagem da Página Avisos
 
-> Imagem da Pagina de Login do Site - Harison Rios
-
-
 ## 💻 Tecnologias
 
 <div align="center">
@@ -47,6 +44,6 @@ Este projeto consiste em um sistema de monitoramento de temperatura e umidade do
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 ---
-**Nota:** Este projeto ainda está em processo de desenvolvimento. 
+**Nota:** Este projeto ainda não é responsivo e não oferece suporte para tablets e dispositivos móveis, mas melhorias futuras estão planejadas para garantir uma experiência acessível e otimizada em todas as plataformas.
 
 
